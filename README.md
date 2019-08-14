@@ -1,13 +1,13 @@
 # Informatikprojekt 1: Stundenblog
 
 ### Übersicht
-<details open>
+<details>
   <summary>August</summary>
 
 ##### [13.08.19](#1308)
 ##### [14.08.19](#1408)
 </details>
-<details open>
+<details>
   <summary>September</summary>
 
 ##### [xx.09.19](#xx09)

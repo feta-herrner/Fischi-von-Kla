@@ -1,10 +1,9 @@
 # Informatikprojekt 1: Stundenblog
 
 ## Übersicht
-
 ### August
 <details open>
-<summary>genauer</summary>
+  <summary>August</summary>
 
 ##### [13.08.19](#1308)
 </details>

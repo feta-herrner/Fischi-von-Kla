@@ -3,7 +3,6 @@
 ### Übersicht
 <details>
   <summary>August</summary>
-
 ##### [13.08.19](#1308)
 ##### [14.08.19](#1408)
 </details>

@@ -7,6 +7,9 @@
 ##### [13.08.19](#1308)
 ##### [14.08.19](#1408)
 ##### [15.08.19](#1508)
+##### [20.08.19](#2008)
+##### [21.08.19](#2108)
+##### [22.08.19](#2208)
 </details>
 <details>
   <summary>September</summary>
@@ -26,3 +29,9 @@ Heute war unsere erste "richtige" Informatikstunde, die wir dafür genutzt haben
 Für die kommende Informatikstunde haben wir uns vorgenommen, die ersten Schritte in unserem Projekt zu machen und hatten auch schon eine Idee, wie das aussehen könnte.
 
 #### 15.08.19 <a name="1508"></a> 
+
+#### 20.08.19 <a name="2008"></a> 
+
+#### 21.08.19 <a name="2108"></a> 
+
+#### 22.08.19 <a name="2208"></a> 

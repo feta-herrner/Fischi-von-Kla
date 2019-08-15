@@ -29,6 +29,7 @@ Heute war unsere erste "richtige" Informatikstunde, die wir dafür genutzt haben
 Für die kommende Informatikstunde haben wir uns vorgenommen, die ersten Schritte in unserem Projekt zu machen und hatten auch schon eine Idee, wie das aussehen könnte.
 
 #### 15.08.19 <a name="1508"></a> 
+Heute haben wir die Stunde damit begonnen, uns im Internet über Arduino zu informieren. Mit unserer Idee einer automatischen Pflanzenwässerungsanlage für Lottas Aloe Vera im Hinterkopf, haben wir uns dann entschieden, uns zuerst einmal mit den "Basics" von Arduino vertraut zu machen. Wir haben von Herrn Buhl einen Arduino ausgeliehen und waren eine Weile damit beschäftigt, das Vorprojekt auseinanderzubauen. Danach haben wir nach Online Tutorials und Informationen für Arduino Basics gesucht und beschlossen, [diesem](https://learn.sparkfun.com/tutorials/what-is-an-arduino/all) Tutorial nachzugehen, in welchem Arduino grundlegend erklärt wird und wir am Ende in der Lage sein sollen, eine Glühbirne zum Leuchten zu bringen.
 
 #### 20.08.19 <a name="2008"></a> 
 

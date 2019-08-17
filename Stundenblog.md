@@ -36,6 +36,7 @@ Für die nächste Stunde haben wir uns vorgenommen, da es zeitlich knapp wurde, 
 
 #### 20.08.19 <a name="2008"></a> 
 Heute sind wir unserem Vorsatz der letzten Stunde nachgegangen, uns mit Arduino vertraut zu machen. Nützlicherweise war im Anschluss an die [Installationsanleitung](https://learn.sparkfun.com/tutorials/installing-arduino-ide) auch ein Tutorial beigefügt, in welchem wir ein **Beipsielskript**
+
   `void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   pinMode(LED_BUILTIN, OUTPUT);

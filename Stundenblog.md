@@ -53,7 +53,9 @@ void loop() {
 ```
 fanden, welches eine Glühbirne zum leuchten bringt. Wir haben gelernt, wie man dieses und andere Skripts auf den Arduino hochlädt und auch, in welchem Rythmus und unter welchen Umständen die Skripts ausgeführt werden.
 **(Hier lieber ein Bild?)**
-Da wir nun wussten, wie man Skripts schreibt und hochlädt und das "Blink"-Beispielskript das Gleiche wie in unserem [Arduino-Tutorial](https://learn.sparkfun.com/tutorials/what-is-an-arduino) ist, haben wir beschlossen, zu diesem zurückzukehren.
+Da wir nun wussten, wie man Skripts schreibt und hochlädt und das "Blink"-Beispielskript das Gleiche wie in unserem [Arduino-Tutorial](https://learn.sparkfun.com/tutorials/what-is-an-arduino) ist, haben wir beschlossen, nächste Stunde zu diesem zurückzukehren, weil die Zeit mal wieder etwas knapp wurde.
+Im Tutorial wurde uns vor der Ersten Auseinandersetzung mit demselben etwas [Lesestoff](#Lesestoff) beigefügt und nahegelegt, um eine leichtere Zeit in der Programmierung zu haben. Da wir blutige Anfänger im physical computing sind hielten wir das für eine gute Idee und haben uns die verlinkten Artikel als Hausaufgabe aufgegeben.
+BILD
 
 <a href="google.com" target="_blank">Google</a>
 
@@ -64,4 +66,12 @@ Da wir nun wussten, wie man Skripts schreibt und hochlädt und das "Blink"-Beisp
 
 //Notizen
 Lotti: https://learn.sparkfun.com/tutorials/what-is-an-arduino
+(To-Do):
+- Checkliste
+- Lesestoff Links
+- Lesestoff bilder
 
+
+
+
+#### Lesestoff/ Quellen <a name="Lesestoff"></a>

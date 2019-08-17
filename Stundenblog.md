@@ -37,8 +37,11 @@ Für die nächste Stunde haben wir uns vorgenommen, da es zeitlich knapp wurde, 
 #### 20.08.19 <a name="2008"></a> 
 Außerdem hat uns genervt, dass man beim Öffnen der Links, die wir in Github erstellen, 
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+<a href="google.com" target="_blank">Google</a>
 
 #### 21.08.19 <a name="2108"></a> 
 
 #### 22.08.19 <a name="2208"></a> 
+
+
+/ fefef

@@ -35,7 +35,7 @@ Für die nächste Stunde haben wir uns vorgenommen, da es zeitlich knapp wurde, 
 
 
 #### 20.08.19 <a name="2008"></a> 
-Außerdem hat uns genervt, dass man beim Öffnen der Links, die wir in Github erstellen, 
+Heute sind wir unserem Vorsatz der letzten Stunde nachgegangen, uns mit Arduino vertraut zu machen. Nützlicherweise war im Anschluss an die [Installationsanleitung](https://learn.sparkfun.com/tutorials/installing-arduino-ide) auch ein Tutorial beigefügt, welches
 
 <a href="google.com" target="_blank">Google</a>
 

@@ -53,6 +53,7 @@ void loop() {
 ```
 fanden, welches eine Glühbirne zum leuchten bringt. Wir haben gelernt, wie man dieses und andere Skripts auf den Arduino hochlädt und auch, in welchem Rythmus und unter welchen Umständen die Skripts ausgeführt werden.
 **(Hier lieber ein Bild?)**
+Da wir nun wussten, wie man Skripts schreibt und hochlädt und das "Blink"-Beispielskript das Gleiche wie in unserem [Arduino-Tutorial](https://learn.sparkfun.com/tutorials/what-is-an-arduino) ist, haben wir beschlossen, zu diesem zurückzukehren.
 
 <a href="google.com" target="_blank">Google</a>
 

@@ -48,7 +48,8 @@ void loop() {
   delay(1000);                       // wait for a second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
   delay(1000);                       // wait for a second
-}
+}`
+
 fanden, welches eine Glühbirne zum leuchten bringt. Wir haben gelernt, wie man dieses und andere Skripts auf den Arduino hochlädt und auch, in welchem Rythmus und unter welchen Umständen die Skripts ausgeführt werden.
 **(Hier lieber ein Bild?)**
 

@@ -65,9 +65,9 @@ BILD
 //Notizen
 Lotti: https://learn.sparkfun.com/tutorials/what-is-an-arduino
 (To-Do):
-- Checkliste
-- Lesestoff Links
-- Lesestoff bilder
+[ ] Checkliste
+[ ]Lesestoff Links
+[ ] Lesestoff bilder
 
 
 

@@ -58,9 +58,14 @@ BILD
 <a href="google.com" target="_blank">Google</a>
 
 #### 21.08.19 <a name="2108"></a> 
-
+- Bewässerungsanlage
+- verworfen weil:
+- - fertige Tutorials schon 100fach online zur Verfügung -> Eigenleistung kaum möglich, Thema ist schon "abgegrast"
+- Beschluss: anderes Arduino Projekt, physical comp. projekt, das uns weiterbringt, das wir wirklich nützlich finden.
+ 
 
 #### 22.08.19 <a name="2208"></a> 
+
 
 
 //Notizen

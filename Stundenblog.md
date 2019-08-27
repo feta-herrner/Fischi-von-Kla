@@ -77,3 +77,4 @@ Lotti: https://learn.sparkfun.com/tutorials/what-is-an-arduino
 
 
 #### Lesestoff/ Quellen <a name="Lesestoff"></a>
+https://www.kreativekiste.de/servo-suessigkeiten-spender-arduino

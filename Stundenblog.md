@@ -10,6 +10,7 @@
 ##### [20.08.19](#2008)
 ##### [21.08.19](#2108)
 ##### [22.08.19](#2208)
+##### [27.08.19](#2708)
 </details>
 <details>
   <summary>September</summary>
@@ -65,6 +66,9 @@ BILD
  
 
 #### 22.08.19 <a name="2208"></a> 
+
+#### 27.08.19 <a name="2708"></a> 
+Als wir beim Brainstorming Tee getrunken haben, ist uns aufgefallen, dass wir fast immer vergessen, den Teebeutel zur richtigen Zeit aus dem Wasser zu ziehen. Weil wir etwas alltagstaugliches mit Arduino machen wollen, kam uns die Idee, einen automatischen Teebeutelentferner mit Zeitschaltung zu programmieren. Im Internet sind wir auf ein [ähnliches Projekt](https://www.kreativekiste.de/tee-wecker-arduino-projekt-servo) gestoßen, an dem wir uns orierntieren können. 
 
 
 

@@ -11,6 +11,7 @@
 ##### [21.08.19](#2108)
 ##### [22.08.19](#2208)
 ##### [27.08.19](#2708)
+##### [28.08.19](#2808)
 </details>
 <details>
   <summary>September</summary>
@@ -70,7 +71,8 @@ BILD
 
 #### 27.08.19 <a name="2708"></a> 
 Als wir beim Brainstorming Tee getrunken haben, ist uns aufgefallen, dass wir fast immer vergessen, den Teebeutel zur richtigen Zeit aus dem Wasser zu ziehen. Weil wir etwas alltagstaugliches mit Arduino machen wollen, kam uns die Idee, einen automatischen Teebeutelentferner mit Zeitschaltung zu programmieren. Im Internet sind wir auf ein [ähnliches Projekt](https://www.kreativekiste.de/tee-wecker-arduino-projekt-servo) gestoßen, an dem wir uns orierntieren können. 
-
+#### 28.08.19 <a name="2808"></a>  
+Da Herr Buhl uns vorgeschlagen hat, das Projekt zu übernehmen und als Eigenleistung den Code selbst zu schreiben, haben wir uns erneut umentschieden und werden nun doch die Bewässerungsanlage bauen. Wir beginnen damit, das Grundprinzip der Sensoren zu verstehen, wie man sie verbindet und programmiert. Nächste Stunde werden wir an dem Beispiel eines Temperatursensors beginnen.
 
 
 //Notizen

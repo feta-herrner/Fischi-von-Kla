@@ -82,6 +82,8 @@ Da Herr Buhl uns vorgeschlagen hat, das Projekt zu übernehmen und als Eigenleis
 #### 29.08.19 <a name="2908"></a>  
 Wir haben den [Schaltkreis](https://learn.adafruit.com/thermistor/using-a-thermistor) erstellt und Beispielcodes im Internet gesucht.
 
+https://www.greenfoot.org/files/javadoc/index-all.html
+
 
 //Notizen
 Lotti: https://learn.sparkfun.com/tutorials/what-is-an-arduino

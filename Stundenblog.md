@@ -13,6 +13,7 @@
 ##### [27.08.19](#2708)
 ##### [28.08.19](#2808)
 ##### [29.08.19](#2908)
+##### [01.10.19](#0110)
 
 </details>
 <details>
@@ -81,6 +82,10 @@ Da Herr Buhl uns vorgeschlagen hat, das Projekt zu übernehmen und als Eigenleis
 
 #### 29.08.19 <a name="2908"></a>  
 Wir haben den [Schaltkreis](https://learn.adafruit.com/thermistor/using-a-thermistor) erstellt und Beispielcodes im Internet gesucht.
+
+#### 01.10.19 <a name="0110"></a>
+Felix war nicht da, weil er stinkt. 
+
 
 https://www.greenfoot.org/files/javadoc/index-all.html
 

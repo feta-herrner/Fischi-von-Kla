@@ -9,7 +9,6 @@
 ##### [15.08.19](#1508)
 ##### [20.08.19](#2008)
 ##### [21.08.19](#2108)
-##### [22.08.19](#2208)
 ##### [27.08.19](#2708)
 ##### [28.08.19](#2808)
 ##### [29.08.19](#2908)
@@ -19,11 +18,34 @@
 <details>
   <summary>September</summary>
 
-##### [xx.09.19](#xx09)
+##### [11.09.19](#1109)
+##### [12.09.19](#1209)
+##### [24.09.19](#2409)
+##### [25.09.19](#2509)
+##### [26.09.19](#2609)
+
+
 </details>
+<details>
+  <summary>Oktober</summary>
+  
+##### [01.10.19](#0110)  
+##### [02.10.19](#0210)
+##### [22.10.19](#2210)
+##### [23.10.19](#2310)
+##### [24.10.19](#2410)
+##### [29.10.19](#2910)
 
-
-
+</details>
+<details>
+  <summary>November</summary>
+##### [05.11.19](#0511)
+##### [06.11.19](#0611)
+##### [07.11.19](#0711)
+##### [12.11.19](#1211)
+##### [14.11.19](#1411)
+  
+</details>  
 
 
 #### 13.08.19 <a name="1308"></a> 
@@ -63,13 +85,8 @@ BILD
 <a href="google.com" target="_blank">Google</a>
 
 #### 21.08.19 <a name="2108"></a> 
-- Bewässerungsanlage
-- verworfen weil:
-   - fertige Tutorials schon 100fach online zur Verfügung -> Eigenleistung kaum möglich, Thema ist schon "abgegrast"
-- Beschluss: anderes Arduino Projekt, physical comp. projekt, das uns weiterbringt, das wir wirklich nützlich finden.
- 
-
-#### 22.08.19 <a name="2208"></a> 
+Leider haben wir uns gezwungen gesehen, das Projekt zu verwerfen, da es online schon hunderte von Tutorials (zum Beispiel [dieses](https://youtu.be/pYLfcOB5ars) für Arduino-Bewässerungsanlagen gibt und es daher sehr schwierig wäre etwas eigenes oder etwas neues zu entwickeln. Auch bezüglich verschiedener Sensorenkombinationen gab es schon alle Möglichkeiten als genaue Anleitung. Da wir physical computing eigentlich sehr interessant finden, haben wir damit angefangen ein neues Projekt zu finden.
+  
 
 
 #### 27.08.19 <a name="2708"></a> 
@@ -81,7 +98,43 @@ Da Herr Buhl uns vorgeschlagen hat, das Projekt zu übernehmen und als Eigenleis
 
 
 #### 29.08.19 <a name="2908"></a>  
-Wir haben den [Schaltkreis](https://learn.adafruit.com/thermistor/using-a-thermistor) erstellt und Beispielcodes im Internet gesucht.
+Wir haben den [Schaltkreis](https://learn.adafruit.com/thermistor/using-a-thermistor) erstellt und **Beispielcodes** im Internet gesucht.
+```
+
+ 
+void setup(void) {
+  Serial.begin(9600);
+}
+ 
+void loop(void) {
+  float reading;
+ 
+  reading = analogRead(THERMISTORPIN);
+ 
+  Serial.print("Analog reading "); 
+  Serial.println(reading);
+ 
+  // convert the value to resistance
+  reading = (1023 / reading)  - 1;     // (1023/ADC - 1) 
+  reading = SERIESRESISTOR / reading;  // 10K / (1023/ADC - 1)
+  Serial.print("Thermistor resistance "); 
+  Serial.println(reading);
+ 
+  delay(1000);
+}
+```
+Wir haben leider schnell gemerkt, dass wir relativ wenig Verständnis aufweisen konnten und Felix stellte, rückblickend auf sein letztes Projekt, fest, dass es optimaler Projekte für uns geben könnte und so kam es, dass wir Arduino aufgaben.
+
+
+#### 11.09.19 <a name="1109"></a>
+Da wir nun wieder ohne Projekt da standen haben wir zuerst ein Mal überlegt, was wir überhaupt wollen. Ziemlich schnell konnten wir uns darauf einigen, dass wir ein Computerspiel erstellen wollen.
+Als nächstes stellten wir uns die Frage: Welches Programm ist für uns am besten geeignet?
+Da Felix bereits letztes Jahr mit [Snap!](https://snap.berkeley.edu/) gearbeitet hat, schlossen wir dies aus, damit er keinen zu großen Wissensvorspung hat. Wir erstellten eine Liste anderer Möglichkeiten und entschieden uns am Ende zwischen [App Lab](https://code.org/educate/applab) und [Greenfoot](https://www.greenfoot.org/door) für letzteres, da es für Anfänger empfohlen wird und die Schule Bücher dazu bereit stellt.
+
+
+#### 12.09.19 <a name="1209"></a>
+
+
 
 #### 01.10.19 <a name="0110"></a>
 Felix war nicht da, weil er stinkt. 

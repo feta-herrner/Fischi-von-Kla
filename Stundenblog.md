@@ -167,25 +167,30 @@ Weiter ging es heute mit dem 2. und 3. Fisch, die wir im Unterricht nicht vollst
 
 
 #### 26.09.19 <a name="2609"></a>
-Da wir uns nun an Photoshop gewöhnt hatten, konnten wir die Fische viel schneller fertig stellen und die verschiedenen Optiken in dieser Stunde fertigstellen. 
+Weil wir uns nun an Photoshop gewöhnt hatten, konnten wir die Fische viel schneller fertig stellen und die verschiedenen Optiken in dieser Stunde fertigstellen. 
 
 ![Fisch5](https://user-images.githubusercontent.com/54102146/68875862-cd5de300-0703-11ea-89c1-a1a8521accdf.png)
 ![Fisch4](https://user-images.githubusercontent.com/54102146/68875863-cd5de300-0703-11ea-95ff-a3119e8cd75c.png)
 
 Da die Fische auch vegetarische Nahrung brauchen, haben wir noch [Algen](https://de.pngtree.com/free-png-vectors/cartoon--seegras) im Internet herausgesucht. Da in dieser Version noch ein weißer Hintergrund zu sehen war, nutzten wir die "Ausschneidefunktion" von Photoshop mit folgendem Ergebnis: 
 
+![Unknown](https://user-images.githubusercontent.com/54102146/68875861-cd5de300-0703-11ea-8f96-f988160d1a28.png)
 
 
 
 #### 01.10.19 <a name="0110"></a>
-Felix war nicht da, weil er stinkt. 
+Jetzt, wo wir die Optik fertiggestellt hatten, mussten wir uns erst mal darüber klar werden, welches Konzept unser Spiel verfolgen sollte.
+Lotta hatte die Idee ein Spiel zu entwickeln, in dem man einen Fisch steuert, der überlebt, indem er andere, kleinere Fische frisst und dabei wächst. Er kann allerdings auch selbst von größeren Fischen gefressen werden, dann ist die Runde beendet. Die Steuerung soll über die Pfeiltasten am Computer ablaufen, wie wir es in der Lernaktivität 1 (siehe 12.09.19) gelernt haben. 
+Die restlichen Methoden wollten wir uns in den nächsten Stunden mithilfe der Lernaktivitäten und des Greenfoot Buchs "Einführung in Java und Greenfoot" erschließen.
+
+
+#### 02.10.19 <a name="0210"></a>
+Wie schon geplant, arbeiteten wir heute an den Lernaktivitäten.
+ 
 
 
 https://www.greenfoot.org/files/javadoc/index-all.html
 
-
-//Notizen
-Lotti: https://learn.sparkfun.com/tutorials/what-is-an-arduino
 (To-Do):
 - [x] Checkliste
 - [ ] Lesestoff Links

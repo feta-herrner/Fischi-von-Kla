@@ -39,6 +39,7 @@
 </details>
 <details>
   <summary>November</summary>
+  
 ##### [05.11.19](#0511)
 ##### [06.11.19](#0611)
 ##### [07.11.19](#0711)
@@ -133,6 +134,21 @@ Da Felix bereits letztes Jahr mit [Snap!](https://snap.berkeley.edu/) gearbeitet
 
 
 #### 12.09.19 <a name="1209"></a>
+Um uns einen ersten Überblick über die Funktionsweise von Greenfoot zu verschaffen, sind wir einige der Lernaktivitäten, die Herr Buhl im isurf-Ordner hochgeladen hat durchgegangen. Bei dem ersten haben wir gelernt, wie ein sogenannter "Actor" sich mithilfe der Pfeiltasten bewegen kann, andere "Actor Classes" eleminieren kann und sie danach sogar mit sich herum trägt. Das Beispiel hieß "Meet the Greeps".
+-Screenshot-
+
+
+#### 24.09.19 <a name="2409"></a>
+Auch heute widmeten wir uns wieder den Lernaktivitäten, das heutige Szenario hieß "Fat Cat".
+Wir beschäftigten uns mit verschiedenen if-commands, das heißt, dass das Programm Zusammenhänge herstellt, zum Beispiel, dass die Katze frisst, wenn sie hungrig ist und im Anschluss tanzt. Hier haben wir verschiedene Handlungsketten erstellt. Zudem haben wir mehr über die Klassen und ihre Unterklassen gelernt und wie man dieses entweder abhängig oder unabhängig von einander codiert.
+
+
+#### 25.09.19 <a name="2509"></a>
+Bevor wir uns weitere Skills aneigneten, haben wir überlegt, was für ein Szenario wir selbst erstellen wollten. Da unsere vorherigen Projektideen, die Bewässerungsanlage und der automatischen Teebeutelentfernen, beide etwas mit Wasser zu tun hatten, beschlossen wir, dies fortzuführen und eine Unterwasserwelt zu erstellen. Wir wählten den [Hintergrund](https://pixers.de/aufkleber/unterwasser-hintergrund-sonnenlicht-auf-meeresboden-67199299) aus und passten ihn in Greenfoot an. In einer Unterwasserwelt muss es natürlich auch Fische geben, daher suchten wir auch danach im Internet, wurden aber vorerst nicht fündig.
+
+
+#### 25.09.19 <a name="2509"></a>
+Wir setzten unsere Suche fort und beschlossen ihn in Adobe Photoshop selbst zu kreieren. 
 
 
 

@@ -158,13 +158,17 @@ Da dies zwar recht zeitaufwendig war, aber unseres Erachtens nach lohnenwert, be
 
 
 #### 25.09.19 <a name="2509"></a>
-Weiter ging es heute mit dem 2. Fisch, den wir im Unterricht nicht vollständig erstellen konnten. Den Rest erledigten wir also pflichtbewusst zu Hause :).
+Weiter ging es heute mit dem 2. und 3. Fisch, die wir im Unterricht nicht vollständig erstellen konnten. Den Rest erledigten wir also pflichtbewusst zu Hause :).
+
+![Fisch3](https://user-images.githubusercontent.com/54102146/68875864-cd5de300-0703-11ea-95cb-01077cb25028.png)
+![Fisch2](https://user-images.githubusercontent.com/54102146/68875866-cd5de300-0703-11ea-8fb9-6c5752698fdb.png)
 
 
 
 
 #### 26.09.19 <a name="2609"></a>
-Da wir uns nun an Adobe Photoshop gewöhnt hatten, konnten wir die Fische viel schneller fertig stellen und die verschiedenen Optiken in dieser Stunde fertigstellen. 
+Da wir uns nun an Photoshop gewöhnt hatten, konnten wir die Fische viel schneller fertig stellen und die verschiedenen Optiken in dieser Stunde fertigstellen. 
+
 
 
 

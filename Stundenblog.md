@@ -152,7 +152,7 @@ Bevor wir uns weitere Skills aneigneten, haben wir überlegt, was für ein Szena
 #### 25.09.19 <a name="2509"></a>
 Wir setzten unsere Suche fort und beschlossen ihn in Adobe Photoshop selbst zu kreieren. 
 
-![Fisch1](https://user-images.githubusercontent.com/54102146/68875775-aacbca00-0703-11ea-818d-6f3e317f516c.png)
+![Fisch1](https://user-images.githubusercontent.com/54102146/68875775-aacbca00-0703-11ea-818d-6f3e317f516c.png | width=12)
 
 Da dies zwar recht zeitaufwendig war, aber unseres Erachtens nach lohnenwert, beschlossen wir, dies mit den anderen Fischen ebenfalls zu tun.
 
@@ -160,7 +160,7 @@ Da dies zwar recht zeitaufwendig war, aber unseres Erachtens nach lohnenwert, be
 #### 25.09.19 <a name="2509"></a>
 Weiter ging es heute mit dem 2. Fisch, den wir im Unterricht nicht vollständig erstellen konnten. Den Rest erledigten wir also pflichtbewusst zu Hause :).
 
-![Unknown](https://user-images.githubusercontent.com/54102146/68875861-cd5de300-0703-11ea-8f96-f988160d1a28.png |width=20)
+![Unknown](https://user-images.githubusercontent.com/54102146/68875861-cd5de300-0703-11ea-8f96-f988160d1a28.png)
 
 
 #### 26.09.19 <a name="2609"></a>

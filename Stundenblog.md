@@ -152,7 +152,7 @@ Bevor wir uns weitere Skills aneigneten, haben wir überlegt, was für ein Szena
 #### 25.09.19 <a name="2509"></a>
 Wir setzten unsere Suche fort und beschlossen ihn in Adobe Photoshop selbst zu kreieren. 
 
-![Fisch1](https://user-images.githubusercontent.com/54102146/68875775-aacbca00-0703-11ea-818d-6f3e317f516c.png | width=12)
+![Fisch1](https://user-images.githubusercontent.com/54102146/68875775-aacbca00-0703-11ea-818d-6f3e317f516c.png)
 
 Da dies zwar recht zeitaufwendig war, aber unseres Erachtens nach lohnenwert, beschlossen wir, dies mit den anderen Fischen ebenfalls zu tun.
 

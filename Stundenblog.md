@@ -135,7 +135,8 @@ Da Felix bereits letztes Jahr mit [Snap!](https://snap.berkeley.edu/) gearbeitet
 
 #### 12.09.19 <a name="1209"></a>
 Um uns einen ersten Überblick über die Funktionsweise von Greenfoot zu verschaffen, sind wir einige der Lernaktivitäten, die Herr Buhl im isurf-Ordner hochgeladen hat durchgegangen. Bei dem ersten haben wir gelernt, wie ein sogenannter "Actor" sich mithilfe der Pfeiltasten bewegen kann, andere "Actor Classes" eleminieren kann und sie danach sogar mit sich herum trägt. Das Beispiel hieß "Meet the Greeps".
--Screenshot-
+<img width="571" alt="Bildschirmfoto 2019-11-14 um 15 53 09" src="https://user-images.githubusercontent.com/54102146/68875793-b1f2d800-0703-11ea-83ab-01c5a356eb52.png">
+
 
 
 #### 24.09.19 <a name="2409"></a>

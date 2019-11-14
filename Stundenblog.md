@@ -169,8 +169,10 @@ Weiter ging es heute mit dem 2. und 3. Fisch, die wir im Unterricht nicht vollst
 #### 26.09.19 <a name="2609"></a>
 Da wir uns nun an Photoshop gewöhnt hatten, konnten wir die Fische viel schneller fertig stellen und die verschiedenen Optiken in dieser Stunde fertigstellen. 
 
+![Fisch5](https://user-images.githubusercontent.com/54102146/68875862-cd5de300-0703-11ea-89c1-a1a8521accdf.png)
+![Fisch4](https://user-images.githubusercontent.com/54102146/68875863-cd5de300-0703-11ea-95ff-a3119e8cd75c.png)
 
-
+Da die Fische auch vegetarische Nahrung brauchen, haben wir noch [Algen](https://de.pngtree.com/free-png-vectors/cartoon--seegras) im Internet herausgesucht. Da in dieser Version noch ein weißer Hintergrund zu sehen war, nutzten wir die "Ausschneidefunktion" von Photoshop mit folgendem Ergebnis: 
 
 
 

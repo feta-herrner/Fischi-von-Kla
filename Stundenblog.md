@@ -135,6 +135,7 @@ Da Felix bereits letztes Jahr mit [Snap!](https://snap.berkeley.edu/) gearbeitet
 
 #### 12.09.19 <a name="1209"></a>
 Um uns einen ersten Überblick über die Funktionsweise von Greenfoot zu verschaffen, sind wir einige der Lernaktivitäten, die Herr Buhl im isurf-Ordner hochgeladen hat durchgegangen. Bei dem ersten haben wir gelernt, wie ein sogenannter "Actor" sich mithilfe der Pfeiltasten bewegen kann, andere "Actor Classes" eleminieren kann und sie danach sogar mit sich herum trägt. Das Beispiel hieß "Meet the Greeps".
+
 <img width="571" alt="Bildschirmfoto 2019-11-14 um 15 53 09" src="https://user-images.githubusercontent.com/54102146/68875793-b1f2d800-0703-11ea-83ab-01c5a356eb52.png">
 
 
@@ -150,6 +151,16 @@ Bevor wir uns weitere Skills aneigneten, haben wir überlegt, was für ein Szena
 
 #### 25.09.19 <a name="2509"></a>
 Wir setzten unsere Suche fort und beschlossen ihn in Adobe Photoshop selbst zu kreieren. 
+
+![Fisch1](https://user-images.githubusercontent.com/54102146/68875775-aacbca00-0703-11ea-818d-6f3e317f516c.png)
+
+Da dies zwar recht zeitaufwendig war, aber unseres Erachtens nach lohnenwert, beschlossen wir, dies mit den anderen Fischen ebenfalls zu tun.
+
+
+#### 25.09.19 <a name="2509"></a>
+Weiter ging es heute mit dem 2. Fisch, den wir im Unterricht nicht vollständig erstellen konnten. Den Rest erledigten wir also pflichtbewusst zu Hause :).
+
+
 
 
 

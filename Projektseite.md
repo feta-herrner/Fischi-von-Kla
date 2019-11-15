@@ -8,8 +8,8 @@
 
 ## 2. Code
 
-#### Tastenbelegung
-##### Grundsteuerung
+### Tastenbelegung
+#### Grundsteuerung
 Mit den Kontrolltasten "rechts" und "links" kann der Spieler Fischi steuern. Dabei dreht sich Fischi nach links, solange die linke Pfeiltaste gedrückt ist und nach rechts, solange die rechte Pfeiltaste gedrückt ist. drückt der Spieler die obere Pfeiltaste, bewegt er sich nach vorne, drückt er die untere Pfeiltaste, bewegt er sich rückwärts.
 
 Im Code ist diese Grundsteuerung für den Fischi wie folgt umgesetzt:
@@ -27,8 +27,8 @@ Für die flüssige Bewegung war es außerdem wichtig, dass Fischi nicht in der W
 
 Die isAtEdge boolean-"Abfrage" ist dabei von Greenfoot importiert. Wird die if-Schleife "abgerufen", weil Fischi sich an der Wand der Stage befindet, wird die turn-methode "aktiviert" und Fischi vollführt eine 180° Drehung.
 
-##### erweiterte Steuerungsmöglichkeiten
-###### Flash
+#### erweiterte Steuerungsmöglichkeiten
+##### Flash
 Fischi ist außerdem in der Lage, nach dem Abklingen eines "cooldowns" eine schnelle Bewegung nach vorne zu vollführen (Im Folgenden "Flash"). Flash wird durch das Drücken der Leertaste ("Space") abgerufen.
 Im Code haben wir "Flash" als neue Methode wie folgt definiert:
 
@@ -39,6 +39,7 @@ Wie im Bild zu sehen ist, bewegt Fischi sich mit der Move Methode um 100 Einheit
 ![Bildschirmfoto 2019-11-15 um 20 31 34](https://user-images.githubusercontent.com/54102146/68970178-fb682380-07e6-11ea-9610-70cfc203a29c.png)
 
 Die Flash-Methode wird, wie die anderen Bewegungs-methoden durch eine if-Schleife in der act Methode von Fischi aktiviert:
+<a name="linklink">
 
 ![Bildschirmfoto 2019-11-15 um 20 36 26](https://user-images.githubusercontent.com/54102146/68970500-b09adb80-07e7-11ea-9aad-0d737eccc250.png)
 
@@ -51,7 +52,7 @@ Dies wurde wie folgt realisiert:
 
 this.getWorld() ruft die Welt ab, in der der Text angezeigt werden soll. "showText" ist die Methode, die die Welt ausführen soll, "cooldown für Flash" wird bei den hinten als "int" angegebenen Koordinaten angezeigt, "this.cooldown" ist der eigentlich wichtige Teil, weil dieser den aktellen Wert der Variable ausgibt und anzeigt.
 
-###### boost
+##### boost
 Die letzte Steuerungserweiterung/veränderung ist der boost. Der boost ist eine kleine Rakete. Sammelt Fischi diese ein, erhält er für kurze Zeit einen Boost in Geschwindigkeit und seitlicher Mobilität/Mumentum.
 
 ![Bildschirmfoto 2019-11-15 um 20 58 50](https://user-images.githubusercontent.com/54102146/68971870-c78efd00-07ea-11ea-8154-8ff486b62325.png)
@@ -86,15 +87,15 @@ Scale(int, int) is ein Greenfoot Befehl, welcher 2 Werte für int erwartet und d
 In der 3. Zeile wird dann das neu skalierte Bild als Bild für die Raketenklasse "X" gesetzt.
 setImage ist ein Greenfoot Befehl, der das folgende (in diesem Fall unser vorher definiertes "image") als neues Bild für den Actor festlegt.
 
-##### Grundfunktionen 
-###### SeeGras
+#### Grundfunktionen 
+##### SeeGras
 kollidiert Fischi mit SeeGras, dann wird eine if-Schleife aktiviert, welche eine weitere Reihe if-Schleifen auslöst. Wenn die vorher definierte Variable seeGraseaten unter 10 liegt, wird das berührte SeeGras entfernt und "1" zu seegraseaten hinzugefügt. Ist seegraseaten=10, wird wieder das Seegras entfernt, aber zusätzlich die setScale [Methode](#method_setScale) abgerufen, welche den Wert getScale + 1 bekommt. Außerdem wird wieder "1" zu seegraseaten hinzugefügt.
 Die 3. Schleife entfernt dann nur noch das Seegras, wenn mehr als 10 SeeGras gegessen wurden. 
 Zusammengefasst zählt diese Kombination an if-Schleifen also die "gegessenen" Seegräsern. Wurden 10 Seegräser "gegessen", wird die Größe des Fischis erhöht, danach hat das Essen von Seegräsern keinen Effekt mehr. 
 
 ![Bildschirmfoto 2019-11-15 um 21 58 48](https://user-images.githubusercontent.com/54102146/68975294-29536500-07f3-11ea-93b0-617ad713ea23.png)
 
-###### Fische
+##### Fische
 Fischi (meinFisch) ist eine "subclass" von Fische, was bedeutet, dass Fischi alle Befehle von dieser Klasse "erbt". ["BöserFisch"](#böserFisch), die Klasse für die Gegner unseres Fischis, ist ebenfalls eine subclass von "Fische", was nützlich ist, weil Befehle, wie ["setScale" und "getScale"](#method_setScale) so nicht für beide Klassen einzeln definiert werden müssen und beim Größenvergleich abgerufen werden können. 
 
 "Fische" enthält unter anderem die Methode **setScale** <a name="method_setScale"> 
@@ -133,7 +134,7 @@ public Fische(double scale) {
  ```
  ...definiert für alle actor der Klasse "Fische", dass diese eine variable "scale" bei der erstellung haben/brauchen, mit der der Fisch bei der erstellung mit dem setScale befehl erstmals skaliert wird.
  
- ###### BöserFisch
+ ##### BöserFisch
 moveRandomly ist die Methode, welche für BöserFisch, dem Gegner unseres Fischis, die zufällige Bewegungsrichtung festlegt.
 
 ![Bildschirmfoto 2019-11-15 um 22 48 01](https://user-images.githubusercontent.com/54102146/68978024-037d8e80-07fa-11ea-823b-2a5901a3c6ac.png)

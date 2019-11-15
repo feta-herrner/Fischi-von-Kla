@@ -7,7 +7,7 @@
 [Spiel herunterladen](https://www.file-upload.net/download-13787660/FischivonKl1.0.zip.html)
 
 ## 2. Code
-2.1 Grundbefehle
+
 #### Tastenbelegung
 ##### Grundsteuerung
 Mit den Kontrolltasten "rechts" und "links" kann der Spieler Fischi steuern. Dabei dreht sich Fischi nach links, solange die linke Pfeiltaste gedrückt ist und nach rechts, solange die rechte Pfeiltaste gedrückt ist. drückt der Spieler die obere Pfeiltaste, bewegt er sich nach vorne, drückt er die untere Pfeiltaste, bewegt er sich rückwärts.
@@ -20,3 +20,8 @@ Um zu überprüfen, ob der Spieler eine der Steuerungstasten nutzt, laufen in de
 Für die flüssige Bewegung war es außerdem wichtig, dass Fischi nicht in der Wand "stecken" bleibt. Bei einer Kollision mit dem Rand der Welt wird deshalb eine 180° Drehung vollzogen. Im Code ist das mit der Boolean-Methode "isAtEdge" in Kombination mit einer weiteren if-Schleife umgesetzt:
 ![Bildschirmfoto 2019-11-15 um 20 19 00](https://user-images.githubusercontent.com/54102146/68969437-43864680-07e5-11ea-874d-79138c3c7f58.png)
 Die isAtEdge boolean-"Abfrage" ist dabei von Greenfoot importiert. Wird die if-Schleife "abgerufen", weil Fischi sich an der Wand der Stage befindet, wird die turn-methode "aktiviert" und Fischi vollführt eine 180° Drehung.
+
+##### erweiterte Steuerungsmöglichkeiten
+Fischi ist außerdem in der Lage, nach dem Abklingen eines "cooldowns" eine schnelle Bewegung nach vorne zu vollführen (Im Folgenden "Flash"). Flash wird durch das Drücken der Leertaste ("Space") abgerufen.
+Im Code haben wir "Flash" als neue Methode wie folgt definiert:
+

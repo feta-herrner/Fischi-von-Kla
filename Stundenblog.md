@@ -191,12 +191,18 @@ Für viel mehr hat die Zeit blöderweise nicht gereicht.
 
 
 #### 22.10.19 <a name="2210"></a>
-Die glorreiche Stunde des Anfangs von etwas Großem hat begonnen: Fischis erster Code wurde geschrieben!
+Die glorreiche Stunde der Kreation von etwas Wundervollen hat begonnen: Fischis erster Code wurde geschrieben!
 Um ganz simpel anzufangen, haben wir Fischi erst ein Mal das Schwimmen beigebracht.
 
 <img width="550" alt="Bildschirmfoto 2019-11-15 um 14 06 02" src="https://user-images.githubusercontent.com/54102146/68946137-867af680-07b2-11ea-8fc4-3bc567c6dd0a.png">
 
 Die Geschwindigkeit definierten wir vorher.
+
+<img width="550" alt="Bildschirmfoto 2019-11-15 um 14 05 00" src="https://user-images.githubusercontent.com/54102146/68946610-b5459c80-07b3-11ea-8f88-58da87f0607e.png">
+
+
+#### 23.10.19 <a name="2310"></a>
+Fehler zugeben ist sehr wichtig, wie Felix G. Herrmann einst sagte. Die heutige Unterrichtsstunde war definitiv nicht unsere produktivste, wir schafften es nur Fischi beizubringen, nicht zu weit weg zu schwimmen und am Rand umzudrehen, wie wir es in den Lernaktivitäten erschlossen hatten.
 
 
 

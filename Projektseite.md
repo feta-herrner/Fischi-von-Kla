@@ -73,7 +73,7 @@ Die zufällige Teleportation wurde dabei ähnlich wie die Abfrage nach vorhanden
 
 ![Bildschirmfoto 2019-11-15 um 21 17 49](https://user-images.githubusercontent.com/54102146/68972996-67e62100-07ed-11ea-8f4e-1d077632ced3.png)
 
-Die Variable für den Teleportiercooldown beträgt zu Beginn 600 act-Zyklen. In der act-Methode der Rakete(n)-Klasse gibt eine if-Schleife den Befehl, die Position um eine zufällige Zahl zu verändern, welche sich innerhalb der Parameter x(0-1200) und y(0-600) befindet, welche die Grenzen der Karte definieren. Diese if-Schleife wird abgerufen, wenn der Wert der "teleportiercooldown"-Variable 0 beträgt. 
+Die Variable für den Teleportiercooldown beträgt zu Beginn 600 act-Zyklen. In der act-Methode der Rakete(n)-Klasse gibt eine if-Schleife den Befehl, die Position um eine zufällige Zahl zu verändern, welche sich innerhalb der Parameter x(0-1200) und y(0-600) befindet, welche die Grenzen der Karte definieren. Diese if-Schleife wird abgerufen, wenn der Wert der "teleportiercooldown"-Variable 0 beträgt. <a name="g3">
 Ist dies nicht der Fall, so greift die "else"-Schleife, welche bei jedem act-cycle, in dem teleportiercooldown nicht 0 beträgt, diesen um 1 reduziert.
 Diese schleife reduziert den wert also solange, bis eine teleportation stattfindet. In der oberen If-schleife wird dann der Wert wieder erhöht, bis er wieder abgebaut wurde usw.
 Die benutzen Methoden setLocation(int, int) und Greenfoot.getRandomNumber(int) sind von Greenfoot importierte Methoden, die nicht definiert werden mussten.
@@ -153,6 +153,19 @@ Im hier zu sehenden Code wird, mithilfe eines weiteren "if-Ausdrucks", wenn ein 
 ![Bildschirmfoto 2019-11-15 um 23 03 00](https://user-images.githubusercontent.com/54102146/68978813-2446e380-07fc-11ea-9501-2fe892be3273.png)
 
 
+##### MyWorld
+MyWorld ist die Welt, in der sich alle Actor-Klassen bewegen. In dieser wird die Welt so, wie sie vor jedem Spiel vorbereitet wird mit dem `prepare()`Befehl gespeichert. Dieser wird durch `public MyWorld`abgerufen, dies ist der Konstruktor für MyWorld.
 
+![Bildschirmfoto 2019-11-15 um 23 15 56](https://user-images.githubusercontent.com/54102146/68979455-e8ad1900-07fd-11ea-8f73-203cf4855f8b.png)
+
+Die `prepare()` Methode erstellt mit den importierten methoden AddObject und in den jeweiligen Klassen definierten Konstruktoren "MeinFisch" und "BöserFisch" mit gegebenen `int` Variablen für die "size" der Fische die Actor in der Welt:
+
+![Bildschirmfoto 2019-11-15 um 23 16 28](https://user-images.githubusercontent.com/54102146/68979583-332e9580-07fe-11ea-85fa-89509c49f76e.png)
+
+MyWorld erstellt außerdem an zufälligen Orten mit dem bekannten getRandomNumber Befehl für die x,y-Koordinaten in if Schleifen mit dem von [hier](#linklink) bekannten Prinzip nach Ablauf eines "Timers" in Form vorher erstellter Parameter in der act Methode neue Raketen "X" und "BöseFische".
+
+![Bildschirmfoto 2019-11-15 um 23 21 06](https://user-images.githubusercontent.com/54102146/68979736-a1735800-07fe-11ea-84be-3e375b40627f.png)
+
+Außerdem wird in einer if-Schleife ständig die Anzahl der vorhandenen Objekte der "SeeGras" Klasse überprüft. Ist die Zahl, die bei `getObjects(SeeGras.class).size()` ermittelt wird, kleiner als 10, wird mit dem addObject-Befehl ein neues Seegras mit der getRandomNumber Funktion wie [hier](#g3) an einer zufälligen Koordinate erstellt.
 
 

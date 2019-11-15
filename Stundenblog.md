@@ -242,6 +242,13 @@ Aufgrund unser elterlichen Pflicht müssen wir natürlich für eine regelmäßig
 
 <img width="550" alt="Bildschirmfoto 2019-11-15 um 15 07 42" src="https://user-images.githubusercontent.com/54102146/68949461-5fc0be00-07ba-11ea-9e46-1afe545aa40e.png">
 
+Das Leben von Fischi ist ja bekanntlich kein Ponyhof, sondern eine Unterwasserwelt, daher enstand am heutigen Tag der Aufstieg des Bösen, ein tödlicher Gegner von Fischi. Er bewegt sich zufällig auf der Map, weil er über keine besonders große Intelligenz verfügt.
+
+<img width="550" alt="Bildschirmfoto 2019-11-15 um 15 17 11" src="https://user-images.githubusercontent.com/54102146/68949878-4b30f580-07bb-11ea-8f46-7c8ba49dc247.png">
+
+<img width="550" alt="Bildschirmfoto 2019-11-15 um 15 17 41" src="https://user-images.githubusercontent.com/54102146/68949881-4cfab900-07bb-11ea-8a99-f858d37e3830.png">
+
+
 
 
 

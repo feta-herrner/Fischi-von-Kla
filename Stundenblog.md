@@ -193,6 +193,9 @@ Für viel mehr hat die Zeit blöderweise nicht gereicht.
 Die glorreiche Stunde des Anfangs von etwas Großem hat begonnen: Fischis erster Code wurde geschrieben!
 Um ganz simpel anzufangen, haben wir Fischi erst ein Mal das Schwimmen beigebracht.
 
+<img width="550" alt="Bildschirmfoto 2019-11-15 um 14 06 02" src="https://user-images.githubusercontent.com/54102146/68946137-867af680-07b2-11ea-8fc4-3bc567c6dd0a.png">
+
+
 
 
 

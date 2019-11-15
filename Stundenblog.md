@@ -162,17 +162,16 @@ Da dies zwar recht zeitaufwendig war, aber unseres Erachtens nach lohnenwert, be
 #### 25.09.19 <a name="2509"></a>
 Weiter ging es heute mit dem 2. und 3. Fisch, die wir im Unterricht nicht vollständig erstellen konnten. Den Rest erledigten wir also pflichtbewusst zu Hause :).
 
-![Fisch3](https://user-images.githubusercontent.com/54102146/68875864-cd5de300-0703-11ea-95cb-01077cb25028.png)
-![Fisch2](https://user-images.githubusercontent.com/54102146/68875866-cd5de300-0703-11ea-8fb9-6c5752698fdb.png)
-
-
+<img width="550" alt="Bildschirmfoto 2019-11-15 um 15 39 30" src="https://user-images.githubusercontent.com/54102146/68951376-30ac4b80-07be-11ea-9280-c412a663afb4.png">
+<img width="550" alt="Bildschirmfoto 2019-11-15 um 15 38 45" src="https://user-images.githubusercontent.com/54102146/68951380-32760f00-07be-11ea-8da9-1772c265c025.png">
 
 
 #### 26.09.19 <a name="2609"></a>
 Weil wir uns nun an Photoshop gewöhnt hatten, konnten wir die Fische viel schneller fertig stellen und die verschiedenen Optiken in dieser Stunde fertigstellen. 
 
-![Fisch5](https://user-images.githubusercontent.com/54102146/68875862-cd5de300-0703-11ea-89c1-a1a8521accdf.png)
-![Fisch4](https://user-images.githubusercontent.com/54102146/68875863-cd5de300-0703-11ea-95ff-a3119e8cd75c.png)
+<img width="550" alt="Bildschirmfoto 2019-11-15 um 15 39 11" src="https://user-images.githubusercontent.com/54102146/68951384-343fd280-07be-11ea-9cba-ff95d22d2bf0.png">
+<img width="550" alt="Bildschirmfoto 2019-11-15 um 15 37 27" src="https://user-images.githubusercontent.com/54102146/68951387-373ac300-07be-11ea-8c79-e351d5cd43db.png">
+
 
 Da die Fische auch vegetarische Nahrung brauchen, haben wir noch [Algen](https://de.pngtree.com/free-png-vectors/cartoon--seegras) im Internet herausgesucht. Da in dieser Version noch ein weißer Hintergrund zu sehen war, nutzten wir die "Ausschneidefunktion" von Photoshop mit folgendem Ergebnis: 
 

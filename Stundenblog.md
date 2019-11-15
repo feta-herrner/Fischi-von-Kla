@@ -210,7 +210,7 @@ Des weiteren suchten wir online nach passenden Codes für unser kleines Haustier
 
 
 #### 24.10.19 <a name="2410"></a>
-Ob es Schicksal gibt oder nicht, ist eine schwere Frage. Was Felix und ich aber feststellen durften: Pechsträhnen gibt es durchaus (vielleicht sollte man es nicht Pechsträhne, sondern Dummheitssträhne nennen). Wir wollten unserem Fischi eine Boostmöglichkeit geben, bei der sich die Geschwindigkeit erhöht. Damit es kein dauerhaft nutzbarer Cheatcode ist, haben wir versucht einen Cooldown einzubringen, also eine Abklingzeit. Leider blieb das ein einseitiger Wunsch, den Fischi ignorierte, weil er manchmal noch etwas bockig war. Der Boost funtioniert zwar, die Abklingzeit aber nicht.
+Ob es Schicksal gibt oder nicht, ist eine schwere Frage. Was Felix und ich aber feststellen durften: Pechsträhnen gibt es durchaus (vielleicht sollte man es nicht Pechsträhne, sondern Dummheitssträhne nennen). Wir wollten unserem Fischi eine Flashmöglichkeit geben, bei der sich die Geschwindigkeit erhöht. Damit es kein dauerhaft nutzbarer Cheatcode ist, haben wir versucht einen Cooldown einzubringen, also eine Abklingzeit. Leider blieb das ein einseitiger Wunsch, den Fischi ignorierte, weil er manchmal noch etwas bockig war. Der Flash funtioniert zwar, die Abklingzeit aber nicht.
 
 <img width="550" alt="Bildschirmfoto 2019-11-15 um 14 38 43" src="https://user-images.githubusercontent.com/54102146/68947824-b5936700-07b6-11ea-8d2c-c8c7a2687476.png">
 
@@ -258,15 +258,18 @@ Um das Spiel etwas schwerer zu machen, ließen wir die Gegner jetzt nach und nac
 <img width="550" alt="Bildschirmfoto 2019-11-15 um 15 24 42" src="https://user-images.githubusercontent.com/54102146/68950294-24bf8a00-07bc-11ea-8b55-4859f420d368.png">
 
 Außerdem haben wir die Struktur umgebaut, indem wir die Fischi und seine Gegner einer Überklasse untergeordnet haben, aus der sie die Eigenschaften erben.
- BILD?
- 
+
+<img width="550" alt="Bildschirmfoto 2019-11-15 um 16 34 57" src="https://user-images.githubusercontent.com/54102146/68955269-f050cb80-07c5-11ea-8ff8-f23e73326c4c.png">
+
+
+#### 12.11.19 <a name="1211"></a>
+Heute haben wir nur außerhalb der Schule an unserem Projekt gearbeitet. 
+
  Weiter Änderung: Erklärung FELIX
  
 <img width="550" alt="Bildschirmfoto 2019-11-15 um 16 24 58" src="https://user-images.githubusercontent.com/54102146/68954681-cc40ba80-07c4-11ea-9587-49adc25786fe.png">
 
 
-#### 12.11.19 <a name="1211"></a>
-Heute haben wir nur außerhalb der Schule an unserem Projekt gearbeitet. 
 
 https://www.greenfoot.org/files/javadoc/index-all.html
 

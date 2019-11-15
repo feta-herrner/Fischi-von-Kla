@@ -212,6 +212,12 @@ Des weiteren suchten wir online nach passenden Codes für unser kleines Haustier
 #### 24.10.19 <a name="2410"></a>
 Ob es Schicksal gibt oder nicht, ist eine schwere Frage. Was Felix und ich aber feststellen durften: Pechsträhnen gibt es durchaus (vielleicht sollte man es nicht Pechsträhne, sondern Dummheitssträhne nennen). Wir wollten unserem Fischi eine Boostmöglichkeit geben, bei der sich die Geschwindigkeit erhöht. Damit es kein dauerhaft nutzbarer Cheatcode ist, haben wir versucht einen Cooldown einzubringen, also eine Abklingzeit. Leider blieb das ein einseitiger Wunsch, den Fischi ignorierte, weil er manchmal noch etwas bockig war. Der Boost funtioniert zwar, die Abklingzeit aber nicht.
 
+<img width="550" alt="Bildschirmfoto 2019-11-15 um 14 38 43" src="https://user-images.githubusercontent.com/54102146/68947824-b5936700-07b6-11ea-8d2c-c8c7a2687476.png">
+
+Aus zeitlichen Gründen haben wir uns dann aber entschlossen, diese Baustelle zu einem anderen Zeitpunkt zu beenden und uns vorerst wichtigeren Dingen zu widmen.
+
+
+#### 29.10.19 <a name="2910"></a>
 
 
 

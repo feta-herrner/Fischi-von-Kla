@@ -143,10 +143,7 @@ Fischi bewegt sich jedes mal, wenn die moveRandomly-Methode abgerufen wird um (2
 Zusätzlich wird eine if-Schleife ausgelöst, welche, wenn eine zufällig aus 1000 gewählte Zahl kleiner ist, als 10, eine weitere if/else Schleife aktiviert wird: Diese lässt sich den bösen Fisch mit einer 50/50 Chance entweder um eine zufällige Zahl von (0-70) nach rechts oder links drehen. 
 
 In der "act"-Methode von BöserFisch wird die definierte "moveRandomly" Methode abgerufen.
-Außerdem läuft eine if-Schleife mit dem von [hier](#linklink)
-
-
-
+Außerdem läuft eine if-Schleife in dem von [hier](#linklink) bekannten Prinzip. 
 
 
 

@@ -185,7 +185,11 @@ Die restlichen Methoden wollten wir uns in den nächsten Stunden mithilfe der Le
 
 
 #### 02.10.19 <a name="0210"></a>
-Wie schon geplant, arbeiteten wir heute an den Lernaktivitäten.
+In dieser Stunde gab es leider technische Schwierigkeiten mit dem Computer. Das Log-in hat nicht funktioniert, weshalb wir nach einigen Versuchen an den PC von Herrn Buhl gegangen sind. Wie schon geplant, arbeiteten wir heute an den Lernaktivitäten. Bei "Little Crab" lernten wir zum Beispiel, wie man einen Actor zufällig auf dem Bildschirm bewegen lässt und, wie er an den Ecken seine Richtung ändert.
+Für viel mehr hat die Zeit blöderweise nicht gereicht.
+
+
+#### 22.10.19 <a name="2210"></a>
  
 
 

@@ -85,3 +85,16 @@ Die erste Zeile definiert "image" als GreenFootimage und ruft dabei das aktuelle
 Scale(int, int) is ein Greenfoot Befehl, welcher 2 Werte für int erwartet und das vorher definierte Bild auf diese Werte skaliert. Mit image.getWidth wird die aktuelle Breite von definiertem "image" abgerufen. Da das Ursprungsbild für den Zweck der Rakete zu groß ist, wird von diesem Wert 60 abgezogen. Das Gleiche passiert mit der Höhe (getHeight, -30).
 In der 3. Zeile wird dann das neu skalierte Bild als Bild für die Raketenklasse "X" gesetzt.
 setImage ist ein Greenfoot Befehl, der das folgende (in diesem Fall unser vorher definiertes "image") als neues Bild für den Actor festlegt.
+
+##### Grundfunktionen 
+###### SeeGras
+kollidiert Fischi mit SeeGras, dann wird eine if-Schleife aktiviert, welche eine weitere Reihe if-Schleifen auslöst. Wenn die vorher definierte Variable seeGraseaten unter 10 liegt, wird das berührte SeeGras entfernt und "1" zu seegraseaten hinzugefügt. Ist seegraseaten=10, wird wieder das Seegras entfernt, aber zusätzlich die setScale [Methode](#method_setScale) abgerufen, welche den Wert getScale + 1 bekommt. Außerdem wird wieder "1" zu seegraseaten hinzugefügt.
+Die 3. Schleife entfernt dann nur noch das Seegras, wenn mehr als 10 SeeGras gegessen wurden. 
+Zusammengefasst zählt diese Kombination an if-Schleifen also die "gegessenen" Seegräsern. Wurden 10 Seegräser "gegessen", wird die Größe des Fischis erhöht, danach hat das Essen von Seegräsern keinen Effekt mehr. 
+
+![Bildschirmfoto 2019-11-15 um 21 58 48](https://user-images.githubusercontent.com/54102146/68975294-29536500-07f3-11ea-93b0-617ad713ea23.png)
+
+###### Fische
+Fischi (meinFisch) ist eine "subclass" von Fische, was bedeutet, dass Fischi alle Befehle von dieser Klasse "erbt". ["BöserFisch"](#böserFisch), die Klasse für die Gegner unseres Fischis, ist ebenfalls eine subclass von "Fische", was nützlich ist, weil Befehle, wie ["setScale" und "getScale"](#method_setScale) so nicht für beide Klassen einzeln definiert werden müssen und beim Größenvergleich abgerufen werden können. 
+
+Fische enthält unter anderem die Methode 

@@ -143,9 +143,14 @@ Fischi bewegt sich jedes mal, wenn die moveRandomly-Methode abgerufen wird um (2
 Zusätzlich wird eine if-Schleife ausgelöst, welche, wenn eine zufällig aus 1000 gewählte Zahl kleiner ist, als 10, eine weitere if/else Schleife aktiviert wird: Diese lässt sich den bösen Fisch mit einer 50/50 Chance entweder um eine zufällige Zahl von (0-70) nach rechts oder links drehen. 
 
 In der "act"-Methode von BöserFisch wird die definierte "moveRandomly" Methode abgerufen.
-Außerdem läuft eine if-Schleife in dem von [hier](#linklink) bekannten Prinzip. 
+Außerdem läuft eine if-Schleife in dem von [hier](#linklink) bekannten Prinzip.
+In diesem Fall sorgt sie dafür, dass der "BöserFisch" actor nach Ablauf einer gewissen Zeit verschwindet.
 
+![Bildschirmfoto 2019-11-15 um 23 01 46](https://user-images.githubusercontent.com/54102146/68978745-eea1fa80-07fb-11ea-88d7-61045b6ec054.png)
 
+Im hier zu sehenden Code wird, mithilfe eines weiteren "if-Ausdrucks", wenn ein Actor der Klasse meinFisch den bösen Fisch berührt und die mit getScale ermittelte Größe des "BösenFisch"s größer ist, als die von Fischi, der "Fischi" entfernt und mit der bekannten Methode ein "Game over" Text in der Mitte des Spielfelds angezeigt. Mit `Greenfoot.stop()` wird das Programm gestoppt. Das Spiel ist beendet.
+
+![Bildschirmfoto 2019-11-15 um 23 03 00](https://user-images.githubusercontent.com/54102146/68978813-2446e380-07fc-11ea-9501-2fe892be3273.png)
 
 
 

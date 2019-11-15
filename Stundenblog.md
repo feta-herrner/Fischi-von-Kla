@@ -196,6 +196,10 @@ Um ganz simpel anzufangen, haben wir Fischi erst ein Mal das Schwimmen beigebrac
 
 <img width="550" alt="Bildschirmfoto 2019-11-15 um 14 06 02" src="https://user-images.githubusercontent.com/54102146/68946137-867af680-07b2-11ea-8fc4-3bc567c6dd0a.png">
 
+Die Geschwindigkeit definierten wir vorher.
+
+<img width="550" alt="Bildschirmfoto 2019-11-15 um 14 08 06" src="https://user-images.githubusercontent.com/54102146/68946363-17ea6880-07b3-11ea-9604-cbd421e79b6b.png">
+
 
 
 

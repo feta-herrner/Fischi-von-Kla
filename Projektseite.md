@@ -97,4 +97,4 @@ Zusammengefasst zählt diese Kombination an if-Schleifen also die "gegessenen" S
 ###### Fische
 Fischi (meinFisch) ist eine "subclass" von Fische, was bedeutet, dass Fischi alle Befehle von dieser Klasse "erbt". ["BöserFisch"](#böserFisch), die Klasse für die Gegner unseres Fischis, ist ebenfalls eine subclass von "Fische", was nützlich ist, weil Befehle, wie ["setScale" und "getScale"](#method_setScale) so nicht für beide Klassen einzeln definiert werden müssen und beim Größenvergleich abgerufen werden können. 
 
-Fische enthält unter anderem die Methode 
+Fische enthält unter anderem die Methode **setScale** <a name="method_setScale">

@@ -218,7 +218,7 @@ Aus zeitlichen Gründen haben wir uns dann aber entschlossen, diese Baustelle zu
 
 
 #### 29.10.19 <a name="2910"></a>
-Irgenwann werden auch die süßesten Kinder, wie Felix, erwachsen, aber um ihn ging es in dieser Stunde nicht. Viel besser noch: Fischi wächst! Felix hat viel Spinat gegessen und Fischi eben sein Seegras.
+Irgenwann werden auch die süßesten Kinder, wie Felix, erwachsen, aber um ihn ging es in dieser Stunde nicht. Viel besser noch: Fischi wächst! Felix hat viel Spinat gegessen und Fischi eben sein Seegras. Es gibr dabei eine Einschränlung. Wenn Fischi mehr als 10 Seegras isst, wächst er davon nicht mehr.
 
 <img width="550" alt="Bildschirmfoto 2019-11-15 um 15 07 42" src="https://user-images.githubusercontent.com/54102146/68949210-db6e3b00-07b9-11ea-978e-34db861a5bbf.png">
 
@@ -241,7 +241,7 @@ Der Fisch reagiert darauf folgendermaßen:
 
 
 #### 06.11.19 <a name="0611"></a>
-Aufgrund unser elterlichen Pflicht müssen wir natürlich für eine regelmäßige Essenszufuhr garantieren. Um dies zu bewerkstelligen, lassen wir auf der Map Seegras spawnen. 
+Aufgrund unser elterlichen Pflicht müssen wir natürlich für eine regelmäßige Essenszufuhr garantieren. Um dies zu bewerkstelligen, lassen wir auf der Map Seegras spawnen.
 
 <img width="550" alt="Bildschirmfoto 2019-11-15 um 15 07 42" src="https://user-images.githubusercontent.com/54102146/68949461-5fc0be00-07ba-11ea-9e46-1afe545aa40e.png">
 
@@ -257,7 +257,16 @@ Um das Spiel etwas schwerer zu machen, ließen wir die Gegner jetzt nach und nac
 
 <img width="550" alt="Bildschirmfoto 2019-11-15 um 15 24 42" src="https://user-images.githubusercontent.com/54102146/68950294-24bf8a00-07bc-11ea-8b55-4859f420d368.png">
 
+Außerdem haben wir die Struktur umgebaut, indem wir die Fischi und seine Gegner einer Überklasse untergeordnet haben, aus der sie die Eigenschaften erben.
+ BILD?
+ 
+ Weiter Änderung: Erklärung FELIX
+ 
+<img width="550" alt="Bildschirmfoto 2019-11-15 um 16 24 58" src="https://user-images.githubusercontent.com/54102146/68954681-cc40ba80-07c4-11ea-9587-49adc25786fe.png">
 
+
+#### 12.11.19 <a name="1211"></a>
+Heute haben wir nur außerhalb der Schule an unserem Projekt gearbeitet. 
 
 https://www.greenfoot.org/files/javadoc/index-all.html
 

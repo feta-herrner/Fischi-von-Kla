@@ -265,14 +265,13 @@ Außerdem haben wir die Struktur umgebaut, indem wir die Fischi und seine Gegner
 #### 12.11.19 <a name="1211"></a>
 Heute haben wir nur außerhalb der Schule an unserem Projekt gearbeitet. 
 
- Weiter Änderung: Erklärung FELIX
  
 <img width="550" alt="Bildschirmfoto 2019-11-15 um 16 24 58" src="https://user-images.githubusercontent.com/54102146/68954681-cc40ba80-07c4-11ea-9587-49adc25786fe.png">
 
 Unserer Checkliste sah zu dem Zeitpunkt so aus:
 - [x] Fischi bewegt sich
 - [x] Fischi wächst
-- [ ] Fischi frisst andere Fische, sobald er größer ist
+- [x] Fischi frisst andere Fische, sobald er größer ist
 
 
 

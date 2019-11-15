@@ -238,6 +238,12 @@ Eine weitere Möglichkeit Fischi schneller zu machen, war es, ihn mit der neuen 
 
 
 #### 06.11.19 <a name="0611"></a>
+Aufgrund unser elterlichen Pflicht müssen wir natürlich für eine regelmäßige Essenszufuhr garantieren. Um dies zu bewerkstelligen, lassen wir auf der Map Seegras spawnen. 
+
+<img width="550" alt="Bildschirmfoto 2019-11-15 um 15 07 42" src="https://user-images.githubusercontent.com/54102146/68949461-5fc0be00-07ba-11ea-9e46-1afe545aa40e.png">
+
+
+
 
 
 

@@ -109,4 +109,26 @@ Fischi (meinFisch) ist eine "subclass" von Fische, was bedeutet, dass Fischi all
  ![Bildschirmfoto 2019-11-15 um 22 22 27](https://user-images.githubusercontent.com/54102146/68976605-7127bb80-07f6-11ea-8d8c-933c7aa2ff57.png)
  
  zum aktuellen "skalierungswert" von "this", also dem Fisch, welcher die methode ausführt, gesetzt wird.
- Danach wird mit `GreenfootImage wachsenderFisch = new GreenfootImage (selbst) ;`der Wert der Variable selbst, welcher das Bild unseres Fisches ist, als neues Bild für "wachsenderFisch" definiert.
+ Danach wird mit `GreenfootImage wachsenderFisch = new GreenfootImage (selbst) ;` der Wert der Variable selbst, welcher das Bild unseres Fisches ist, als neues Bild für "wachsenderFisch" definiert.
+ "wachsenderFisch" wird dann mit der bekannten "scale"-Methode und den Parametern "breite" und "höhe" skaliert. Ein Faktor 0.05 sorgt für den richtigen Maßstab. "Breite" und "Höhe" sind wieder vorabgesetzte Variablen:
+ 
+ ![Bildschirmfoto 2019-11-15 um 22 30 25](https://user-images.githubusercontent.com/54102146/68977028-910baf00-07f7-11ea-86f1-02c93093f248.png)
+ 
+ Diese Variablen geben die mit dem GreenfootBefehl `getHeight`/`getWidth` ermittelten Parameter für Breite/ Höhe an. Der in der Methode abgefragte Wert für "Scale" sorgt in der Multiplikation mit "Maßstab" 0.05 und "Breite"/"Höhe" für eine skalierung.
+ Final wird das wie gewünscht skalierte "wachsenderFisch" als Bild des actors gesetzt, der die methode ausführt.
+ 
+ die Methode `getScale`fragt den aktuellen Wert für die Variable "scale" ab.
+ Diese kann sich verändern, wenn der Fisch wächst [(siehe "setScale")](#method_setScale). Im Code ist dies so umgesetzt:
+ 
+ ![Bildschirmfoto 2019-11-15 um 22 36 22](https://user-images.githubusercontent.com/54102146/68977359-62420880-07f8-11ea-8996-a984e99f82ab.png)
+ 
+ Die Methode ist recht simpel gehalten. Wird sie abgerufen, gibt sie mit `return scale` den aktuellen Wert der "double" Variable "scale" aus.
+ 
+ ![Bildschirmfoto 2019-11-15 um 22 38 17](https://user-images.githubusercontent.com/54102146/68977488-a7663a80-07f8-11ea-81dd-945cb5a052a8.png)
+
+`public Fische(double scale) {
+  setScale(scale) ;
+  }`
+ ...definiert für alle actor der Klasse "Fische", dass diese eine variable "scale" bei der erstellung haben/brauchen, mit der der Fisch bei der erstellung mit dem setScale befehl erstmals skaliert wird.
+
+ 

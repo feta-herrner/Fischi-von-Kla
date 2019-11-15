@@ -134,6 +134,22 @@ public Fische(double scale) {
  ...definiert für alle actor der Klasse "Fische", dass diese eine variable "scale" bei der erstellung haben/brauchen, mit der der Fisch bei der erstellung mit dem setScale befehl erstmals skaliert wird.
  
  ###### BöserFisch
- 
+moveRandomly ist die Methode, welche für BöserFisch, dem Gegner unseres Fischis, die zufällige Bewegungsrichtung festlegt.
 
- 
+![Bildschirmfoto 2019-11-15 um 22 48 01](https://user-images.githubusercontent.com/54102146/68978024-037d8e80-07fa-11ea-823b-2a5901a3c6ac.png)
+
+Fischi bewegt sich jedes mal, wenn die moveRandomly-Methode abgerufen wird um (2) nach vorne.
+Zusätzlich wird eine if-Schleife ausgelöst, welche, wenn eine zufällig aus 1000 gewählte Zahl kleiner ist, als 10, eine weitere if/else Schleife aktiviert wird: Diese lässt sich den bösen Fisch mit einer 50/50 Chance entweder um eine zufällige Zahl von (0-70) nach rechts oder links drehen. 
+
+In der "act"-Methode von BöserFisch wird die definierte "moveRandomly" Methode abgerufen.
+Außerdem läuft eine if-Schleife mit dem von [hier](#linklink)
+
+
+
+
+
+
+
+
+
+

@@ -249,7 +249,7 @@ Das Leben von Fischi ist ja bekanntlich kein Ponyhof, sondern eine Unterwasserwe
 
 
 #### 07.11.19 <a name="0711"></a>
-Um das Spiel etwas schwerer zu machen, ließen wir die Gegner jetzt nach und nach spawnen, so dass sich immer mehrere gleichzeitig auf der Map bewegten. Damit aber dennoch ein Gleichgewicht zwischen Gut und Böse möglich ist, schrieben wir den Code so um, dass die bösen Fische nach einer bestimmten Zeit wieder verschwinden. Den Code dafür fanden wir im Greenfoot Buch.
+Um das Spiel etwas schwerer zu machen, ließen wir die Gegner jetzt nach und nach spawnen, so dass sich immer mehrere gleichzeitig auf der Map bewegten. Damit aber dennoch ein Gleichgewicht zwischen Gut und Böse möglich ist, schrieben wir den Code so um, dass die bösen Fische nach einer bestimmten Zeit wieder verschwinden. Den Code dafür fanden wir in der offiziellen [Greenfoot Methods List](https://www.greenfoot.org/files/javadoc/index-all.html).
 
 <img width="550" alt="Bildschirmfoto 2019-11-15 um 15 24 42" src="https://user-images.githubusercontent.com/54102146/68950294-24bf8a00-07bc-11ea-8b55-4859f420d368.png">
 

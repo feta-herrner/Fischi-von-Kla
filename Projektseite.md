@@ -62,5 +62,26 @@ Dass boostleft auf einen Wert > 0 gesetzt wird wird in der act Methode von Fisch
 
 ![Bildschirmfoto 2019-11-15 um 21 03 56](https://user-images.githubusercontent.com/54102146/68972181-77fd0100-07eb-11ea-87c7-01cf733cab79.png)
 
-Dieser Code befindet sich in der Act-Methode von Fischi. Berührt Fischi einen Actor der "X" Klasse, bei welchen es sich um die beschriebene Rakete handelt, wird die if-Schleife aktiviert. Die boolean- Abfrage "isTouching" ist dabei von Greenfoot vorgegeben, die RemoveTouching-Methode ebenfalls. Wird also die besagte "if-Schleife" abgerufen, wird der aktuell berührte actor der "X"-Raketenklasse entfernt und die variable "boostleft" auf 100 gesetzt. Dies aktiviert die [hier](#h1) beschriebene if-Schleife, wodurch Fischi beschleunigt wird und eine größere Agilität erhält. Damit der Boost() nicht ewig anhält, folgt dem "if" statement, welches überprüft, ob eine Rakete berührt wird, ein "else" Statement, das die boostleft Variabe für jeden "act-cycle" um 1 verringert, bis boostleft schließlich wieder den Wert "0" hat. Außerdem aktiviert diese "else" bedingung die "boost" funkiton, damit diese die werte auf den [hier beschriebenen Standardwert](#h2) zurücksetzt  
+Dieser Code befindet sich in der Act-Methode von Fischi. Berührt Fischi einen Actor der "X" Klasse, bei welchen es sich um die beschriebene Rakete handelt, wird die if-Schleife aktiviert. Die boolean- Abfrage "isTouching" ist dabei von Greenfoot vorgegeben, die RemoveTouching-Methode ebenfalls. Wird also die besagte "if-Schleife" abgerufen, wird der aktuell berührte actor der "X"-Raketenklasse entfernt und die variable "boostleft" auf 100 gesetzt. Dies aktiviert die [hier](#h1) beschriebene if-Schleife, wodurch Fischi beschleunigt wird und eine größere Agilität erhält. Damit der Boost() nicht ewig anhält, folgt dem "if" statement, welches überprüft, ob eine Rakete berührt wird, ein "else" Statement, das die boostleft Variabe für jeden "act-cycle" um 1 verringert, bis boostleft schließlich wieder den Wert "0" hat. Außerdem aktiviert diese "else" bedingung die "boost" funkiton, damit diese die werte auf den [hier beschriebenen Standardwert](#h2) zurücksetzt.  
 
+Um das einsammeln der für den Boost verantwortlichen Raketen zu erschwären, teleportieren diese sich zu zufälligen Orten auf dem Spielfeld: 
+
+![Bildschirmfoto 2019-11-15 um 21 16 18](https://user-images.githubusercontent.com/54102146/68972923-39684600-07ed-11ea-8c82-8dae318555d4.png)
+
+Die zufällige Teleportation wurde dabei ähnlich wie die Abfrage nach vorhandenem Boost mit Variablen umgesetzt. Zuerst wurde eine Variable "Teleportiercooldown" für die RaketenKlasse "X" eingeführt:
+
+![Bildschirmfoto 2019-11-15 um 21 17 49](https://user-images.githubusercontent.com/54102146/68972996-67e62100-07ed-11ea-8f4e-1d077632ced3.png)
+
+Die Variable für den Teleportiercooldown beträgt zu Beginn 600 act-Zyklen. In der act-Methode der Rakete(n)-Klasse gibt eine if-Schleife den Befehl, die Position um eine zufällige Zahl zu verändern, welche sich innerhalb der Parameter x(0-1200) und y(0-600) befindet, welche die Grenzen der Karte definieren. Diese if-Schleife wird abgerufen, wenn der Wert der "teleportiercooldown"-Variable 0 beträgt. 
+Ist dies nicht der Fall, so greift die "else"-Schleife, welche bei jedem act-cycle, in dem teleportiercooldown nicht 0 beträgt, diesen um 1 reduziert.
+Diese schleife reduziert den wert also solange, bis eine teleportation stattfindet. In der oberen If-schleife wird dann der Wert wieder erhöht, bis er wieder abgebaut wurde usw.
+Die benutzen Methoden setLocation(int, int) und Greenfoot.getRandomNumber(int) sind von Greenfoot importierte Methoden, die nicht definiert werden mussten.
+
+Die Rakete hat außerdem einen dreizeiler Code, welcher ihr Bild auf die gewünschte Größe skaliert:
+
+![Bildschirmfoto 2019-11-15 um 21 23 53](https://user-images.githubusercontent.com/54102146/68973314-40dc1f00-07ee-11ea-9e2a-1a04bac2c3f4.png)
+
+Die erste Zeile definiert "image" als GreenFootimage und ruft dabei das aktuelle Bild des Actors ab, welches vorher, beim Erstellen der Rakete, festgelegt wurde. 
+Scale(int, int) is ein Greenfoot Befehl, welcher 2 Werte für int erwartet und das vorher definierte Bild auf diese Werte skaliert. Mit image.getWidth wird die aktuelle Breite von definiertem "image" abgerufen. Da das Ursprungsbild für den Zweck der Rakete zu groß ist, wird von diesem Wert 60 abgezogen. Das Gleiche passiert mit der Höhe (getHeight, -30).
+In der 3. Zeile wird dann das neu skalierte Bild als Bild für die Raketenklasse "X" gesetzt.
+setImage ist ein Greenfoot Befehl, der das folgende (in diesem Fall unser vorher definiertes "image") als neues Bild für den Actor festlegt.

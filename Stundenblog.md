@@ -219,8 +219,9 @@ Aus zeitlichen Gründen haben wir uns dann aber entschlossen, diese Baustelle zu
 
 
 #### 29.10.19 <a name="2910"></a>
-Irgenwann werden auch die süßesten Kinder, wie Felix, erwachsen, aber um ihn geht es in dieser Stunde nicht. Viel besser noch: Fischi wächst! Felix hat viel Spinat gegessen und Fischi eben sein Seegras.
+Irgenwann werden auch die süßesten Kinder, wie Felix, erwachsen, aber um ihn ging es in dieser Stunde nicht. Viel besser noch: Fischi wächst! Felix hat viel Spinat gegessen und Fischi eben sein Seegras.
 
+<img width="550" alt="Bildschirmfoto 2019-11-15 um 15 07 42" src="https://user-images.githubusercontent.com/54102146/68949210-db6e3b00-07b9-11ea-978e-34db861a5bbf.png">
 
 Damit er dabei nicht verpixelt, lassen wir das Bild jedes mal neu setzen, anstatt es einfach größer zu ziehen.
 

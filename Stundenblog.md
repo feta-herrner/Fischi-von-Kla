@@ -231,6 +231,10 @@ Damit er dabei nicht verpixelt, lassen wir das Bild jedes mal neu setzen, anstat
 Wer liebt beim Computerspielen keine Special Items? (Lotta eigentlich, aber Felix konnte sich durchsetzen)
 Eine weitere Möglichkeit Fischi schneller zu machen, war es, ihn mit der neuen Actor Class "X", einer kleinen Rakete, in Berührung kommen zu lassen. 
 
+<img width="550" alt="Bildschirmfoto 2019-11-15 um 15 47 11" src="https://user-images.githubusercontent.com/54102146/68951970-5554f300-07bf-11ea-9139-500a8b1161a0.png">
+
+Der Fisch reagiert darauf folgendermaßen: 
+
 <img width="550" alt="Bildschirmfoto 2019-11-15 um 15 01 24" src="https://user-images.githubusercontent.com/54102146/68948791-effe0380-07b8-11ea-8138-0bca2b8fbae0.png">
 
 <img width="550" alt="Bildschirmfoto 2019-11-15 um 15 01 42" src="https://user-images.githubusercontent.com/54102146/68948801-f4c2b780-07b8-11ea-8e4e-d7656dcd2096.png">

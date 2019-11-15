@@ -97,4 +97,16 @@ Zusammengefasst zählt diese Kombination an if-Schleifen also die "gegessenen" S
 ###### Fische
 Fischi (meinFisch) ist eine "subclass" von Fische, was bedeutet, dass Fischi alle Befehle von dieser Klasse "erbt". ["BöserFisch"](#böserFisch), die Klasse für die Gegner unseres Fischis, ist ebenfalls eine subclass von "Fische", was nützlich ist, weil Befehle, wie ["setScale" und "getScale"](#method_setScale) so nicht für beide Klassen einzeln definiert werden müssen und beim Größenvergleich abgerufen werden können. 
 
-Fische enthält unter anderem die Methode **setScale** <a name="method_setScale">
+"Fische" enthält unter anderem die Methode **setScale** <a name="method_setScale"> 
+  Der Zweck dieser Methode besteht darin, die Größe des Fisches, der sie ausführt mit einem Parameter (double) zu skalieren. Für die Nutzung solcher Parameter und auch z.B. für das multiplizieren mit diesem, mussten von Java Befehle/"Tools" importiert werden:
+  
+  ![Bildschirmfoto 2019-11-15 um 22 19 16](https://user-images.githubusercontent.com/54102146/68976474-1d1cd700-07f6-11ea-959a-84c092799c46.png)
+
+![Bildschirmfoto 2019-11-15 um 22 20 55](https://user-images.githubusercontent.com/54102146/68976522-3887e200-07f6-11ea-85b0-9f37901508a1.png)
+ 
+ setScale beginnt, indem die definierte Variable "scale"
+ 
+ ![Bildschirmfoto 2019-11-15 um 22 22 27](https://user-images.githubusercontent.com/54102146/68976605-7127bb80-07f6-11ea-8d8c-933c7aa2ff57.png)
+ 
+ zum aktuellen "skalierungswert" von "this", also dem Fisch, welcher die methode ausführt, gesetzt wird.
+ Danach wird mit `GreenfootImage wachsenderFisch = new GreenfootImage (selbst) ;`der Wert der Variable selbst, welcher das Bild unseres Fisches ist, als neues Bild für "wachsenderFisch" definiert.

@@ -190,7 +190,10 @@ Für viel mehr hat die Zeit blöderweise nicht gereicht.
 
 
 #### 22.10.19 <a name="2210"></a>
- 
+Die glorreiche Stunde des Anfangs von etwas Großem hat begonnen: Fischis erster Code wurde geschrieben!
+Um ganz simpel anzufangen, haben wir Fischi erst ein Mal das Schwimmen beigebracht.
+
+
 
 
 https://www.greenfoot.org/files/javadoc/index-all.html

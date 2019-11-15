@@ -1,4 +1,4 @@
-# Projektseite: Fischi aus Klå
+# Projektseite: Fischi von Klå
 
 ## 1. Einführung
 * Greenfoot ist eine auf Java basierte Programmiersprache, die gut für Einsteiger geeignet ist. Der Vorteil dieser Programmierumgebung besteht darin, dass grundlegende Methoden(methods) von Greenfoot vordefiniert sind und in alle Projekte importiert werden. Dies erspart einem Anfänger zum einen die mühsame Arbeit, grundlegende Methoden von Grund auf schreiben & verstehen zu müssen, des weiteren ist zum Beispiel eine "move()" - Methode, bei welcher der "Programierer" nur einen Parameter in der Klammer angeben muss, damit der entsprechende Actor sich um genannten Parameter bei Aktivierung der Methode vorwärtsbewegt, deutlich leichter zu verstehen, als der entsprechende "HardCode". Ein weiterer Vorteil für Anfänger besteht in der Objektorientierten Natur, mit der Greenfoot Programme aufgebaut sind. Dank dieser lassen sich Programme, auch für den Laien, deutlich übersichtlicher und einfacher gestalten.

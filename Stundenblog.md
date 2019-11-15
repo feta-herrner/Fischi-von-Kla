@@ -95,7 +95,8 @@ Als wir beim Brainstorming Tee getrunken haben, ist uns aufgefallen, dass wir fa
 
 
 #### 28.08.19 <a name="2808"></a>  
-Da Herr Buhl uns vorgeschlagen hat, das Projekt zu übernehmen und als Eigenleistung den Code selbst zu schreiben, haben wir uns erneut umentschieden und werden nun doch die Bewässerungsanlage bauen. Wir beginnen damit, das Grundprinzip der Sensoren zu verstehen, wie man sie verbindet und programmiert. Nächste Stunde werden wir an dem Beispiel eines Temperatursensors beginnen.
+Da Herr Buhl uns vorgeschlagen hat, das Projekt zu übernehmen und als Eigenleistung den Code selbst zu schreiben, haben wir uns erneut umentschieden und werden nun doch die Bewässerungsanlage bauen. Wundervoll, diese hundertfachen Planänderungen oder?
+Wir beginnen damit, das Grundprinzip der Sensoren zu verstehen, wie man sie verbindet und programmiert. Nächste Stunde werden wir an dem Beispiel eines Temperatursensors beginnen.
 
 
 #### 29.08.19 <a name="2908"></a>  
@@ -218,8 +219,12 @@ Aus zeitlichen Gründen haben wir uns dann aber entschlossen, diese Baustelle zu
 
 
 #### 29.10.19 <a name="2910"></a>
+Irgenwann werden auch die süßesten Kinder, wie Felix, erwachsen, aber um ihn geht es in dieser Stunde nicht. Viel besser noch: Fischi wächst! Felix hat viel Spinat gegessen und Fischi eben sein Seegras. Damit er dabei nicht verpixelt, lassen wir das Bild jedes mal neu setzen, anstatt es einfach größer zu ziehen.
+
+<img width="550" alt="Bildschirmfoto 2019-11-15 um 14 53 08" src="https://user-images.githubusercontent.com/54102146/68948248-c4c6e480-07b7-11ea-8a70-34bb630e7e2e.png">
 
 
+#### 05.11.19 <a name="0511"></a>
 
 
 

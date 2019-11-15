@@ -126,9 +126,14 @@ Fischi (meinFisch) ist eine "subclass" von Fische, was bedeutet, dass Fischi all
  
  ![Bildschirmfoto 2019-11-15 um 22 38 17](https://user-images.githubusercontent.com/54102146/68977488-a7663a80-07f8-11ea-81dd-945cb5a052a8.png)
 
-`public Fische(double scale) {
+``` 
+public Fische(double scale) {
   setScale(scale) ;
-  }`
+  }
+ ```
  ...definiert für alle actor der Klasse "Fische", dass diese eine variable "scale" bei der erstellung haben/brauchen, mit der der Fisch bei der erstellung mit dem setScale befehl erstmals skaliert wird.
+ 
+ ###### BöserFisch
+ 
 
  

@@ -204,7 +204,12 @@ Die Geschwindigkeit definierten wir vorher.
 #### 23.10.19 <a name="2310"></a>
 Fehler zugeben ist sehr wichtig, wie Felix G. Herrmann einst sagte. Die heutige Unterrichtsstunde war definitiv nicht unsere produktivste, wir schafften es nur Fischi beizubringen, nicht zu weit weg zu schwimmen und am Rand umzudrehen, wie wir es in den Lernaktivitäten erschlossen hatten.
 
+<img width="550" alt="Bildschirmfoto 2019-11-15 um 14 33 21" src="https://user-images.githubusercontent.com/54102146/68947117-fd18f380-07b4-11ea-83cb-319eea62bbaf.png">
 
+Des weiteren suchten wir online nach passenden Codes für unser kleines Haustier.
+
+
+#### 24.10.19 <a name="2410"></a>
 
 
 
